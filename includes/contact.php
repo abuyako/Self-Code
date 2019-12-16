@@ -1,6 +1,6 @@
 <div class="contact">
     <img src="" alt="">
-    <div class="contact-form">
+    <div class="contact-forms">
         <form action="">
             <label for="name">name</label>
             <input type="text" name="name" placeholder="enter you name">
