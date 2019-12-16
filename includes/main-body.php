@@ -6,6 +6,7 @@
             <p>This is the scripting language</p>
             </div>
             <img src="./assets/images/js.png" alt="">
+            <button>codeHere</button>
         </div>
         <div class="card card2">
         <div class="card2-text">
