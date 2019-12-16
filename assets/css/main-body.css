@@ -1,0 +1,94 @@
+.main-body {
+    background-color: lightblue;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-body-cards {
+    display: flex;
+}
+.card {
+    width: 300px;
+    background-color: lightyellow;
+    height: 400px;
+    margin:0 40px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 3px 2px #777;
+	-moz-box-shadow: 0 3px 2px #777;
+	box-shadow: 0 3px 2px #777;
+} 
+.card1-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.card1-text h1 {
+    font-family: Polly-bold;
+    font-size: 25px;
+}
+.card1-text p {
+    font-family: Polly-light;
+}
+.card1 img {
+    width: 100%;
+    margin-top: 30px;
+}
+.card2-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.card2-text h1 {
+    font-family: Polly-bold;
+    font-size: 25px;
+}
+.card2-text p {
+    font-family: Polly-light;
+}
+.card2 img {
+    width: 100%;
+    margin-top: 30px;
+}
+.card3-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.card3-text h1 {
+    font-family: Polly-bold;
+    font-size: 25px;
+}
+.card3-text p {
+    font-family: Polly-light;
+    text-align: center;
+}
+.card3 img {
+    width: 60%;
+    margin-top: 30px;
+    height: 180px;
+    margin-left: 60px;
+}
+.card4-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.card4-text h1 {
+    font-family: Polly-bold;
+    font-size: 25px;
+}
+.card4-text p {
+    font-family: Polly-light;
+}
+.card4 img {
+    width: 50%;
+    margin-top: 30px;
+    height: 200px;
+    margin-left: 70px;
+}
