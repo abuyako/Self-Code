@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Polly-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/PollyRounded/Polly-Bold.ttf);
+}
+@font-face {
+    font-family: "Polly-light";
+    font-style: normal;
+    font-weight: lighter;
+    src: url(../fonts/PollyRounded/Polly-light.ttf);
+}
