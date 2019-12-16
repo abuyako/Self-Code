@@ -4,6 +4,8 @@
      <?php include_once("includes/header.php");?>
 <body>
     
-    <?php include_once("includes/heading.php");?>   
+    <?php include_once("includes/heading.php");?>
+    <?php include_once("includes/main-body.php")?>
+       
 </body>
 </html>
