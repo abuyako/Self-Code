@@ -1,0 +1,19 @@
+.heading {
+  width: 100%;
+  padding: 50px 0;
+  background-color: black;
+}
+.heading-text {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading-text h1 {
+  font-family: Polly-Bold;
+  font-size: 50px;
+}
+.heading-text p {
+  font-family: Polly-light;
+  font-size: 20px;
+}
