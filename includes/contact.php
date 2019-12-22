@@ -2,12 +2,12 @@
     <img src="" alt="">
     <div class="contact-forms">
         <form action="">
-            <label for="name">name</label>
-            <input type="text" name="name" placeholder="enter you name">
-            <label for="email"></label>
-            <input type="text" name="email" id="" placeholder="enter you email">
-            <label for="comments"></label>
-            <input type="textarea" min="10px" max="50px" placeholder="Comment Here...">
+            <label for="name">Name</label> <br>
+            <input type="text" name="name" placeholder="name"> <br>
+            <label for="email">Email</label> <br>
+            <input type="text" name="email" id="" placeholder="email"> <br>
+            <label for="comments">Comment</label> <br>
+            <textarea name="comments" id="" cols="60" rows="15" placeholder="comment here..." ></textarea>
         </form>
     </div>
 </div>

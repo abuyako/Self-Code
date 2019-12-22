@@ -15,9 +15,7 @@
     height: 400px;
     margin:0 40px;
     border-radius: 10px;
-    -webkit-box-shadow: 0 3px 2px #777;
-	-moz-box-shadow: 0 3px 2px #777;
-	box-shadow: 0 3px 2px #777;
+    
 } 
 .card1-text {
     display: flex;
