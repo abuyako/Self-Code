@@ -1,5 +1,5 @@
 <div class="contact">
-    <img src="" alt="">
+    <img src="./assets/images/logo.jpg" alt="">
     <div class="contact-forms">
         <form action="">
             <label for="name">Name</label> <br>
