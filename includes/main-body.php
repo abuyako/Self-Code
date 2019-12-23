@@ -6,7 +6,7 @@
             <p>This is the scripting language</p>
             </div>
             <img src="./assets/images/js.png" alt="">
-           <a href="#"><button>codeHere</button></a>
+           <a href="javascript.php"><button>codeHere</button></a>
         </div>
         <div class="card card2">
         <div class="card2-text">
