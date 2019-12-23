@@ -8,7 +8,7 @@
             <input type="text" name="email" id="" placeholder="email" required> <br>
             <label for="comments">Comment</label> <br>
             <textarea name="comments" id="" cols="60" rows="15" placeholder="comment here..." ></textarea>
-            <input  type="submit" value="submit">
+            <input class="contact-button" type="submit" value="submit">
         </form>
     </div>
 </div>
