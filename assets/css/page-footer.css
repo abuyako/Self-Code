@@ -22,3 +22,8 @@
 .page-footer-social i {
     margin-left: 5px;
 }
+.page-footer-text {
+    color: #ffffff;
+    margin-top: 110px;
+    font-family: Polly-Bold;
+}
