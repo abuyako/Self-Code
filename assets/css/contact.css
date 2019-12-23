@@ -12,11 +12,15 @@
   width: 300px;
   padding: 10px;
   margin-top: 5px;
+  font-family: Polly-light;
+  font-weight: bold;
   box-shadow: 1px 1px 0px gray;
 }
 .contact-forms textarea {
   padding: 10px;
   margin-top: 5px;
+  font-family: Polly-light;
+  font-weight: bold;
   box-shadow: 1px 1px 0px gray;
 }
 .contact-forms label {
