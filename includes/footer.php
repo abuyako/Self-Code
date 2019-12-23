@@ -7,6 +7,9 @@
             <li>+255752080410</li>
         </ul>
     </div>
+    <div class="page-footer-text">
+        <p>Talk is cheap, Show me the code</p>
+    </div>
     <div class="page-footer-social">
          <a href="https://www.instagram.com/itsabuyako"><i class="fa fa-instagram" style="color:white; font-size: 30px"></i></a>
          <a href="https://web.facebook.com/abubakary.kowero"><i class="fa fa-facebook-square" style="color:white; font-size: 30px"></i></a>
