@@ -6,7 +6,7 @@
             <p>This is the scripting language</p>
             </div>
             <img src="./assets/images/js.png" alt="">
-            <button>codeHere</button>
+           <a href="#"><button>codeHere</button></a>
         </div>
         <div class="card card2">
         <div class="card2-text">
@@ -14,7 +14,7 @@
             <p>This is the server-side language</p>
             </div>
             <img src="./assets/images/php.png" alt="">
-            <button>codeHere</button>
+           <a href="#"><button>codeHere</button></a>
         </div>
         <div class="card card3">
         <div class="card3-text">
@@ -22,7 +22,7 @@
             <p>This is the Hyper-texting markup language</p>
             </div>
             <img src="assets/images/html.png" alt="">
-            <button>codeHere</button>
+           <a href="#"><button>codeHere</button></a>
         </div>
         <div class="card card4">
         <div class="card4-text">
@@ -30,7 +30,7 @@
             <p>This is the styling language</p>
             </div>
             <img src="./assets/images/css.png" alt="">
-            <button>codeHere</button>
+           <a href="#"><button>codeHere</button></a>
         </div>
     </div>
 </section>
