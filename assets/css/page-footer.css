@@ -16,3 +16,9 @@
     margin-top: 15px;
     font-family: Polly-light;
 }
+.page-footer-social {
+    margin-top: 40px;
+}
+.page-footer-social i {
+    margin-left: 5px;
+}
