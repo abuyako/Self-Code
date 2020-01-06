@@ -6,7 +6,7 @@
 }
 .signup-forms {
   width: 350px;
-  height: 500px;
+  height: 600px;
   background-color: brown;
   display: flex;
   flex-direction: column;
