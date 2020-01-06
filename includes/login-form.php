@@ -7,6 +7,6 @@
             <input type="submit" name="submit" value="SIGN IN">
         </form>
         <p>Create Account</p>
-        <input type="submit" name="submit" value="SIGN UP">
+        <a href="Signup">SIGN UP</a>
     </div>
 </div>
