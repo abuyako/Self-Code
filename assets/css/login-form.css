@@ -44,3 +44,11 @@ form input[type=submit] {
     color: #fff;
     font-family: Polly-Bold;
 }
+.login-forms a {
+    margin-top: 5px;
+    color: #fff;
+    font-family: Polly-Bold;
+}
+.login-forms a:hover {
+    color: grey;
+}
