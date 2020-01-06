@@ -3,3 +3,11 @@
     justify-content: center;
     margin-top: 20px;
 }
+.login-forms {
+    width: 400px;
+    height: 500px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
