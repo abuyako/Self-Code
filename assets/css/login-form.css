@@ -25,7 +25,7 @@ form input[type=text] {
     width: 250px;
     margin-top: 10px;
     border: none;
-    font-family: Polly-bold;
+    font-family: Polly-light;
     font-size: 15px;
 }
 form input[type=placeholder] {
