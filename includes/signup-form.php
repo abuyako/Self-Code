@@ -7,7 +7,7 @@
             <input type="text" name="username" placeholder="username" required> <br>
             <input type="text" name="username" placeholder="email" required> <br>
             <input type="text" name="password" placeholder="password" required><br>
-            <input type="submit" name="submit" value="SIGN IN">
+            <input type="submit" name="submit" value="SIGN UP">
         </form>
     </div>
 </div>
