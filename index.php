@@ -6,6 +6,7 @@
 <body>
     
     <?php include_once("includes/heading.php");?>
+    <?php include_once("includes/login-form.php");?>
 
 </body>
 </html>
