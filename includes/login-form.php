@@ -7,6 +7,6 @@
             <input type="submit" name="submit" value="SIGN IN">
         </form>
         <p>Create Account</p>
-        <a href="Signup">SIGN UP</a>
+        <a href="Signup.php">SIGN UP</a>
     </div>
 </div>
