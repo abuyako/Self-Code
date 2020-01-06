@@ -39,3 +39,8 @@ form input[type=submit] {
     border: none;
     font-family: Polly-Bold;
 }
+.login-forms p {
+    margin-top: 70px;
+    color: #fff;
+    font-family: Polly-Bold;
+}
