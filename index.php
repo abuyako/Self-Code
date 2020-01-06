@@ -7,6 +7,7 @@
     
     <?php include_once("includes/heading.php");?>
     <?php include_once("includes/login-form.php");?>
+    <?php include_once("includes/footer.php");?>
 
 </body>
 </html>
