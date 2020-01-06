@@ -1,65 +1,51 @@
 .signup {
-    display: flex;
-    justify-content: center;
-    background-color: #000000;
-    height: 650px;
-  }
-  .signup-forms {
-    width: 350px;
-    height: 500px;
-    background-color: brown;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 5px;
-  }
-  .signup-forms h1 {
-    margin-top: 50px;
-    color: #ffffff;
-    font-family: Polly-Bold;
-    font-size: 35px;
-  }
-  .signup-forms form {
-    margin-top: 30px;
-  }
-  form input[type="text"] {
-    padding: 20px;
-    width: 250px;
-    margin-top: 10px;
-    border: none;
-    font-family: Polly-light;
-    font-size: 15px;
-    font-weight: bold;
-    box-shadow: 1px 1px 0px black;
-    border-radius: 5px;
-  }
-  form input[type="placeholder"] {
-    color: #000;
-  }
-  form input[type="submit"] {
-    padding: 20px;
-    margin-top: 10px;
-    margin-left: 70px;
-    width: 150px;
-    border: none;
-    font-family: Polly-Bold;
-    border-radius: 5px;
-  }
-  form [input="submit"]:hover {
-      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-    }
-    
-  .signup-forms p {
-    margin-top: 70px;
-    color: #fff;
-    font-family: Polly-Bold;
-  }
-  .signup-forms a {
-    margin-top: 5px;
-    color: #fff;
-    font-family: Polly-Bold;
-  }
-  .signup-forms a:hover {
-    color: black;
-  }
-  
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+  height: 650px;
+}
+.signup-forms {
+  width: 350px;
+  height: 500px;
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+}
+.signup-forms h1 {
+  margin-top: 50px;
+  color: #ffffff;
+  font-family: Polly-Bold;
+  font-size: 35px;
+}
+.signup-forms form {
+  margin-top: 30px;
+}
+form input[type="text"] {
+  padding: 20px;
+  width: 250px;
+  margin-top: 10px;
+  border: none;
+  font-family: Polly-light;
+  font-size: 15px;
+  font-weight: bold;
+  box-shadow: 1px 1px 0px black;
+  border-radius: 5px;
+}
+form input[type="placeholder"] {
+  color: #000;
+}
+form input[type="submit"] {
+  padding: 20px;
+  margin-top: 10px;
+  margin-left: 70px;
+  width: 150px;
+  border: none;
+  font-family: Polly-Bold;
+  border-radius: 5px;
+}
+form [input="submit"]:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}

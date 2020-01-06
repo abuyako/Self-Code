@@ -6,7 +6,5 @@
             <input type="text" name="password" placeholder="password" required><br>
             <input type="submit" name="submit" value="SIGN IN">
         </form>
-        <p>Create Account</p>
-        <a href="Signup.php">SIGN UP</a>
     </div>
 </div>
