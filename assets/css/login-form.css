@@ -5,12 +5,13 @@
   height: 650px;
 }
 .login-forms {
-  width: 400px;
+  width: 350px;
   height: 500px;
   background-color: brown;
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 5px;
 }
 .login-forms h1 {
   margin-top: 50px;
@@ -30,6 +31,7 @@ form input[type="text"] {
   font-size: 15px;
   font-weight: bold;
   box-shadow: 1px 1px 0px black;
+  border-radius: 5px;
 }
 form input[type="placeholder"] {
   color: #000;
@@ -43,7 +45,7 @@ form input[type="submit"] {
   font-family: Polly-Bold;
   border-radius: 5px;
 }
-[input="submit"]:hover {
+form [input="submit"]:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   }
   
