@@ -5,7 +5,7 @@
 
 <body>
     
- 
+    <?php include_once("includes/heading.php");?>
 
 </body>
 </html>
