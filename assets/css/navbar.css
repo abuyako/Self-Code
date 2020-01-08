@@ -1,4 +1,9 @@
 .navbar {
     width: 100%;
-    background-color: mistyrose;
+    height: 100px;
+    margin-left: 20px;
+}
+.navbar-list {
+   width: 200px;
+   display: flex;
 }
