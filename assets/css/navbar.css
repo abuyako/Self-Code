@@ -1,9 +1,5 @@
 .navbar {
     width: 100%;
     height: 100px;
-    margin-left: 20px;
-}
-.navbar-list {
-   width: 200px;
-   display: flex;
+    background-color: #fff;
 }
