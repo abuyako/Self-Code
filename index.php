@@ -11,7 +11,7 @@
     <?php include_once("includes/contact.php")?>
     <?php include_once("includes/footer.php");?>
 
-    <button onclick="topFuction()" id="myBtn" title="Go to top">Top</button>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     <script src="app.js"></script>
 </body>
 </html>
