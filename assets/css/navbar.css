@@ -7,7 +7,7 @@
     top: 0;
 }
 .navbar-list {
-   background-color: rgb(51, 47, 47);
+   background-color: rgb(41, 41, 41);
    width: 100%;
 }
 .navbar-list li {
@@ -25,4 +25,6 @@
 }
 .navbar-list li:hover {
     background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    transition: 0.3s;
 }
