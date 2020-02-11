@@ -1,0 +1,19 @@
+.about {
+    width: 100%;
+    height: 600px;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+}
+.about-text {
+    width: 400px;
+    height: 200px;
+    margin-left: 50px;
+}
+.about-text h1 {
+    font-size: 40px;
+    font-family: Polly-light;
+}
+.about-text p {
+    font-family: Polly-light;
+}
