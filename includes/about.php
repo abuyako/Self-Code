@@ -6,7 +6,7 @@
 
   <div class="about-card">
     <div class="card-1 card-01"></div>
-    <div class="card-1 card-02"></div>
+    <div class="card-1 card-02" style="color:white; text-align:center; font-zise:50px">On Progress</div>
     <div class="card-1 card-03"></div>
     <div class="card-1 card-04"></div>
     <div class="card-1 card-05"></div>
