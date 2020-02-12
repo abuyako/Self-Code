@@ -1,8 +1,13 @@
 .contact {
   width: 100%;
   height: 550px;
-  background-color: bisque;
+  /* background-color: bisque; */
   display: flex;
+  background-image: linear-gradient(
+    to bottom,
+    blanchedalmond,
+    rgb(27, 26, 26)
+);
 }
 .contact-forms {
   margin-left: 150px;
