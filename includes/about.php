@@ -6,4 +6,13 @@
             cupiditate inventore nemo libero labore! Quae deleniti, quia ipsa cum 
             aspernatur dignissimos.</p>
     </div>
+
+  <div class="about-card">
+    <div class="card-1"></div>
+    <div class="card-1"></div>
+    <div class="card-1"></div>
+    <div class="card-1"></div>
+    <div class="card-1"></div>
+    <div class="card-1"></div>
+  </div>
 </div>
