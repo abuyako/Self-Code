@@ -10,10 +10,10 @@
   align-items: center;
 }
 .heading-text h1 {
-  font-family: Polly-Bold;
-  font-size: 50px;
+  font-family: Amaranth-Bold;
+  font-size: 80px;
 }
 .heading-text p {
-  font-family: Polly-light;
-  font-size: 20px;
+  font-family: Amaranth-Regular;
+  font-size: 15px;
 }
