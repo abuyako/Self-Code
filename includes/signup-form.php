@@ -1,5 +1,5 @@
 <div class="signup">
-    <div class="signup-forms animated infinite bounce delay-2s">
+    <div class="signup-forms animated fadeInUp">
         <h1>Sign Up</h1>
         <form action="">
             <input type="text" name="username" placeholder="first name" required> <br>

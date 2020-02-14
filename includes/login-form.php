@@ -1,5 +1,5 @@
 <div class="login">
-    <div class="login-forms">
+    <div class="login-forms animated fadeInUp">
         <h1>Sign In</h1>
         <form action="">
             <input type="text" name="username" placeholder="username or email" required> <br>
