@@ -1,5 +1,5 @@
 <div class="navbar">
-    <div class="navbar-list">
+    <div id="navbar" class="navbar-list">
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
@@ -11,3 +11,4 @@
         </ul>
     </div>
 </div>
+<script src="app.js"></script>
