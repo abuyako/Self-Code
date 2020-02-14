@@ -10,3 +10,28 @@
     font-weight: lighter;
     src: url(../fonts/PollyRounded/Polly-light.ttf);
 }
+
+@font-face {
+    font-family: "Amaranth-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/Amaranth/Amaranth-Bold.ttf);
+}
+@font-face {
+    font-family: "Amaranth-BoldItalic";
+    font-style: italic;
+    font-weight: bold;
+    src: url(../fonts/Amaranth/Amaranth-BoldItalic.ttf);
+}
+@font-face {
+    font-family: "Amaranth-italic";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../fonts/Amaranth/Amaranth-Italic.ttf);
+}
+@font-face {
+    font-family: "Amaranth-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/Amaranth/Amaranth-Regular.ttf);
+}
