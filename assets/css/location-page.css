@@ -1,0 +1,9 @@
+.location-page {
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(
+        to bottom,
+        lightblue,
+        blanchedalmond
+    );
+}
