@@ -6,7 +6,7 @@
 <body>
     
     <?php include_once("includes/heading.php");?>
-
+    <?php include_once("includes/location-page.php")?>
     <?php include_once("includes/footer.php");?>
 </body>
 </html>
