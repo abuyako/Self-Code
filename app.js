@@ -26,12 +26,3 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 
-// window.onscroll = function() {this.myScroll()};
-
-// function myScroll() {
-//   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-//     document.getElementById("navbar-list").style.top = "0";
-//   } else {
-//     document.getElementById("navbar-list").style.top = "0";
-//   }
-// }

@@ -1,6 +1,6 @@
-<div class="contact">
+<div class="contact" id="contact">
     <img src="./assets/images/logo.jpg" alt="">
-    <div class="contact-forms">
+    <div class="contact-forms" >
         <form action="">
             <label for="name">Name</label> <br>
             <input type="text" name="name" placeholder="name" required> <br>

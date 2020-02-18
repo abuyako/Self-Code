@@ -1,6 +1,6 @@
 <div class="about">
     <div class="about-text">
-        <h1>What we do.</h1>
+        <h1 id="about">What we do.</h1>
         <p>Lorem ipsum dolor sit amet consectetur </p>
     </div>
 
