@@ -1,9 +1,17 @@
 .location-page {
     width: 100%;
-    height: 600px;
+    height: 700px;
     background-image: linear-gradient(
         to bottom,
         lightblue,
         blanchedalmond
     );
+}
+.location-text {
+    padding: 30px;
+}
+.location-text h1 {
+    font-size: 60px;
+    font-family: Amaranth-Bold;
+    text-align: center;
 }
