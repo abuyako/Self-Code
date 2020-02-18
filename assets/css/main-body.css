@@ -10,10 +10,10 @@
     display: flex;
 }
 .card {
-    width: 300px;
+    width: 290px;
     background-color: lightyellow;
     height: 400px;
-    margin:0 30px;
+    margin:0 10px;
     border-radius: 10px;    
 } 
 .card1-text {
