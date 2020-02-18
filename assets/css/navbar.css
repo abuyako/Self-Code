@@ -4,7 +4,7 @@
     background-color: #000000;
     display: flex;
     position: sticky;
-    top: 0;
+    top: 0px;
     transition: top 0.3s;
     opacity: 0.6;
 }

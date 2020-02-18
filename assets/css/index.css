@@ -1,5 +1,6 @@
-html {
+body, html {
     scroll-behavior: smooth;
+    /* height: 1000px; */
 }
 #myBtn {
     display: none;

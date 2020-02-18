@@ -1,5 +1,5 @@
 <div class="navbar">
-    <div id="navbar" class="navbar-list">
+    <div class="navbar-list">
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="#">About</a></li>
