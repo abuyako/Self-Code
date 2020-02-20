@@ -1,13 +1,9 @@
 .contact {
   width: 100%;
-  height: 550px;
+  height: 560px;
   /* background-color: bisque; */
   display: flex;
-  background-image: linear-gradient(
-    to bottom,
-    blanchedalmond,
-    #17141d
-);
+  background-color: burlywood;
 }
 .contact-forms {
   margin-left: 150px;
@@ -16,7 +12,7 @@
 .contact-forms input {
   width: 300px;
   padding: 10px;
-  margin-top: 5px;
+  margin-top: 10px;
   border: none;
   font-family: Polly-light;
   font-weight: bold;
@@ -39,6 +35,9 @@
 }
 .contact img {
   margin-left: 100px;
+  width: 300px;
+  height: 300px;
+  margin-top: 100px;
 }
 .contact-forms [input="submit"] {
   font-family: Polly-light;
