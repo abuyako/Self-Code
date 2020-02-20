@@ -28,15 +28,14 @@
 }
 .about-card {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     margin: 0 auto;
     font-family: Amaranth-Bold;
-    font-size: 20px;
+    font-size: 25px;
 }
 .card-1 {
     display: flex;
-    width: 300px;
+    width: 250px;
     height: 500px;
     background-color: #17141d;
     border-radius: 10px;
