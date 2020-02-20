@@ -35,7 +35,7 @@
     font-size: 17px;
 }
 .work-bottn:hover {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     color: burlywood;
     border: none;
 }
