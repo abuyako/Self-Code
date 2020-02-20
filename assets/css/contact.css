@@ -45,6 +45,7 @@
 }
 .contact-forms [type="text"] {
   box-shadow: -1rem 0 3rem #000;
+  width: 315px;
 }
 .contact-button {
   background-color: black;
