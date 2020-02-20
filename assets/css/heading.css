@@ -2,18 +2,29 @@
   width: 100%;
   padding: 50px 0;
   background-color: #17141d;
+  display: flex;
 }
 .heading-text {
   color: #ffffff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex: 3;
+  width: 100px;
+  text-align: center;
+  margin-right: 300px;
 }
 .heading-text h1 {
   font-family: Amaranth-Bold;
-  font-size: 80px;
+  font-size: 100px;
+  margin: 10px;
 }
 .heading-text p {
   font-family: Amaranth-Regular;
   font-size: 15px;
+}
+.heading-logo {
+  flex: 1;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.heading-logo img {
+  width: 100px;
 }
