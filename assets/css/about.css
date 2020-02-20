@@ -31,6 +31,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 0 auto;
+    font-family: Amaranth-Bold;
+    font-size: 20px;
 }
 .card-1 {
     display: flex;
