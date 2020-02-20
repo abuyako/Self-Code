@@ -1,7 +1,8 @@
 <div class="about">
     <div class="about-text">
         <h1 id="about">What we do.</h1>
-        <p>Lorem ipsum dolor sit amet consectetur </p>
+        <p>We connect all people who have the passion of programming and all 
+            together can learn and became the experties a web development. </p>
     </div>
 
   <div class="about-card">
