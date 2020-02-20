@@ -5,5 +5,8 @@
         <p>We'd love to hear about it.</p>
     </div>
 
-    <button class="work-btn">CONTANCT US</button>
+    <div class="work-btn">
+    <button class="work-bottn">CONTACT US</button>
+    <!-- <img src="../assets/images" alt=""> -->
+    </div>
 </div>

@@ -12,7 +12,8 @@
 }
 .work-text h1 {
     font-family: Amaranth-Bold;
-    font-size: 60px;
+    font-size: 80px;
+    margin: 15px;
 }
 .work-text h2 {
     font-family: Polly-Bold;
@@ -21,4 +22,36 @@
 .work-text p{
     font-family: Polly-light;
     font-size: 20px;
+    margin: 10px;
+}
+.work-bottn {
+    padding: 20px;
+    margin-top: 10px;
+    width: 280px;
+    background-color: bisque;
+    border: solid black;
+    border-width: 1px;
+    font-family: Amaranth-Regular;
+    font-size: 17px;
+}
+.work-bottn:hover {
+    background-color: white;
+    color: burlywood;
+    border: none;
+}
+/* .work-btn {
+    content: url(../images/next.png);
+    width: 8px;
+    height: 10px;
+    float: right;
+    margin: 1px 0 0 10px;
+} */
+
+.work-btn img {
+    content: url(../images/next.png);
+    width: 8px;
+    height: 10px;
+    float: right;
+    /* margin: 1px 0 0 20px; */
+    margin-top: 35px;
 }
