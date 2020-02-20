@@ -20,18 +20,21 @@
   border: none;
   font-family: Polly-light;
   font-weight: bold;
-  box-shadow: 1px 1px 0px gray;
+  box-shadow: -1rem 0 3rem #000;
 }
+
 .contact-forms textarea {
   padding: 10px;
   margin-top: 5px;
   font-family: Polly-light;
   font-weight: bold;
   border: none;
-  box-shadow: 1px 1px 0px gray;
+  box-shadow: -1rem 0 3rem #000;
+  border-radius: 10px;
 }
+
 .contact-forms label {
-  font-family: Polly-light;
+  font-family: Amaranth-Regular;
   font-size: 20px;
 }
 .contact img {
@@ -40,11 +43,15 @@
 .contact-forms [input="submit"] {
   font-family: Polly-light;
 }
+.contact-forms [type="text"] {
+  box-shadow: -1rem 0 3rem #000;
+}
 .contact-button {
   background-color: black;
   color: #ffffff;
   border: none;
   border-radius: 5px;
+  box-shadow: -1rem 0 3rem #000;
 }
 [input="submit"]:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);

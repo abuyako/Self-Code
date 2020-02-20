@@ -5,6 +5,7 @@
             <li>abuyako@gmail.com</li>
             <li>Ubungo - Dar Es Salaam</li>
             <li>+255752080410</li>
+            <li>Alright Reserved - 2020</li>
         </ul>
     </div>
     <div class="page-footer-text">

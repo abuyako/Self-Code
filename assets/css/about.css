@@ -31,7 +31,6 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 0 auto;
-    /* margin-left: 70px; */
 }
 .card-1 {
     display: flex;
@@ -43,7 +42,6 @@
     transition: 0.4s ease-out;
     position: relative;
     left: 0px;
-     /* margin-left: 10px; */
     margin-top: 30px; 
     padding: 40px; 
 }
