@@ -7,9 +7,13 @@
 
   <div class="about-card">
     <div class="card-1 card-01" style="color:bisque; text-align:center; font-zise:50px">
-    Self Teach
-    <div class="card-01-picture"></div>
-    <div class="card-01-text"></div>
+    <!-- Self Teach -->
+    <div class="card-01-picture">
+      <img src="../assets/images/self-taught.png" alt="" style="width:100%;">
+    </div>
+    <div class="card-01-text">
+      <h1>this is where you learn for yourself</h1>
+    </div>
     </div>
     <div class="card-1 card-02" style="color:bisque; text-align:center; font-zise:50px">Snipet</div>
     <div class="card-1 card-03" style="color:bisque; text-align:center; font-zise:50px">Tips & Tricks</div>
