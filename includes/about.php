@@ -8,6 +8,8 @@
   <div class="about-card">
     <div class="card-1 card-01" style="color:bisque; text-align:center; font-zise:50px">
     Self Teach
+    <div class="card-01-picture"></div>
+    <div class="card-01-text"></div>
     </div>
     <div class="card-1 card-02" style="color:bisque; text-align:center; font-zise:50px">Snipet</div>
     <div class="card-1 card-03" style="color:bisque; text-align:center; font-zise:50px">Tips & Tricks</div>
