@@ -12,7 +12,7 @@ body, html {
     border: none;
     outline: none;
     background-color: black;
-    color: white;
+    color: bisque;
     cursor: pointer;
     padding: 16px;
     border-radius: 4px;
@@ -20,7 +20,8 @@ body, html {
     box-shadow: -1rem 0 3rem #000;
 }
 #myBtn:hover {
-    background-color: #555;
+    background-color: burlywood;
+    color: #000;
 }
 /* width */
 body::-webkit-scrollbar {
