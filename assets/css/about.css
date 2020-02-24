@@ -35,7 +35,7 @@
 }
 .card-1 {
     display: flex;
-    width: 250px;
+    width: 320px;
     height: 500px;
     background-color: #17141d;
     border-radius: 10px;
@@ -44,7 +44,7 @@
     position: relative;
     left: 0px;
     margin-top: 30px; 
-    padding: 40px; 
+    /* padding: 20px 5px;  */
     color: bisque;
 }
 .card-1:not(:first-child) {
@@ -58,4 +58,39 @@
   position: relative;
   left: 50px;
   transition: 0.4s ease-out;
+}
+
+.card-01 {
+    display: flex;
+    flex-direction: column;
+}
+.card-01-picture {
+    /* width: 250px; */
+    height: 300px;
+    background-image: url('/assets/images/self-taught.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-01-text {
+    /* width: 250px; */
+    height: 200px;
+    margin-top: 30px;
+}
+.card-01-text p {
+    font-size: 16px;
+    font-family: Polly-light;
+    margin-top: 10px;
+}
+.anchor {
+    background-color: burlywood;
+    margin-top: 20px;
+    height: 35px;
+    width: 120px;
+    padding: 5px;
+    margin-left: 100px;
+}
+.anchor a {
+    font-size: 15px;
+    color: #17141d;
+    font-family: Amaranth-Regular;
 }
