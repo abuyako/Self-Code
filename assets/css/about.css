@@ -157,3 +157,35 @@
     color: #17141d;
     font-family: Amaranth-Regular;
 }
+.card-04 {
+    display: flex;
+    flex-direction: column;
+}
+.card-04-picture {
+    height: 300px;
+    background-image: url('/assets/images/tips.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-04-text {
+    height: 200px;
+    margin-top: 30px;
+}
+.card-04-text p {
+    font-size: 16px;
+    font-family: Polly-light;
+    margin-top: 10px;
+}
+.anchor {
+    background-color: burlywood;
+    margin-top: 20px;
+    height: 35px;
+    width: 120px;
+    padding: 5px;
+    margin-left: 100px;
+}
+.anchor a {
+    font-size: 15px;
+    color: #17141d;
+    font-family: Amaranth-Regular;
+}
