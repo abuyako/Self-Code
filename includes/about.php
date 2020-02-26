@@ -35,7 +35,18 @@
     </div>
 
     <!-- card-03 -->
-    <div class="card-1 card-03" style="color:bisque; text-align:center; font-zise:50px">Tips & Tricks</div>
+    <div class="card-1 card-03" style="color:bisque; text-align:center; font-zise:50px">
+    <div class="card-03-picture">
+    </div>
+    <div class="card-03-text">
+        <h1>TIPS & TRICKS</h1>
+        <p>We all know coding is hard, dont wory we here for you.</p>
+        <div class="anchor">
+        <a href="#">Read More</a>
+     </div>
+    </div>
+    </div>
+
     <div class="card-1 card-04 card-00" style="color:bisque; text-align:center; font-zise:50px">Books</div>
     <!-- <div class="card-1 card-05 card-00" style="color:white; text-align:center; font-zise:50px">UI/UX Designs</div>
     <div class="card-1 card-06 card-00" style="color:white; text-align:center; font-zise:50px">Frameworks</div> -->
