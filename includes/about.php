@@ -26,10 +26,9 @@
     <div class="card-02-picture">
     </div>
     <div class="card-02-text">
-        <h1>SELF TAUGHT</h1>
-        <p>Online Leaning is the one of the best ways of self taught</p>
-
-     <div class="anchor">
+        <h1>SNIPET</h1>
+        <p>Here you get all the simple codes, ready made for you</p>
+        <div class="anchor">
         <a href="#">Read More</a>
      </div>
     </div>
