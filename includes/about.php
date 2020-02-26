@@ -47,8 +47,19 @@
     </div>
     </div>
 
-    <div class="card-1 card-04 card-00" style="color:bisque; text-align:center; font-zise:50px">Books</div>
-    <!-- <div class="card-1 card-05 card-00" style="color:white; text-align:center; font-zise:50px">UI/UX Designs</div>
-    <div class="card-1 card-06 card-00" style="color:white; text-align:center; font-zise:50px">Frameworks</div> -->
+  <!-- card-04 -->
+    <div class="card-1 card-04 card-00" style="color:bisque; text-align:center; font-zise:50px">
+    <div class="card-03-picture">
+    </div>
+    <div class="card-03-text">
+        <h1>BOOKS</h1>
+        <p>Reading is the one of the best way of learning, pick you book now.</p>
+        <div class="anchor">
+        <a href="#">Read More</a>
+     </div>
+    </div>
+    </div>
+    
+    </div>
   </div>
 </div>
