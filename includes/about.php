@@ -40,7 +40,7 @@
     </div>
     <div class="card-03-text">
         <h1>TIPS & TRICKS</h1>
-        <p>We all know coding is hard, dont wory we here for you.</p>
+        <p>We all know coding is hardy, dont wory we here for you.</p>
         <div class="anchor">
         <a href="#">Read More</a>
      </div>

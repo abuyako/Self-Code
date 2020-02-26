@@ -124,14 +124,14 @@
     color: #17141d;
     font-family: Amaranth-Regular;
 }
-/* 
+
 .card-03 {
     display: flex;
     flex-direction: column;
 }
 .card-03-picture {
     height: 300px;
-    background-image: url('/assets/images/snipet.png');
+    background-image: url('/assets/images/tips.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -156,4 +156,4 @@
     font-size: 15px;
     color: #17141d;
     font-family: Amaranth-Regular;
-} */
+}
