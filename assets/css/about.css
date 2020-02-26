@@ -189,3 +189,38 @@
     color: #17141d;
     font-family: Amaranth-Regular;
 }
+
+.card-01-text:hover {
+    height: 300px;
+    transition: 0.3s;
+}
+.card-01-picture:hover {
+    height: 200px;
+    transition: 0.3s;
+}
+.card-02-text:hover {
+    height: 300px;
+    transition: 0.3s;
+}
+.card-02-picture:hover {
+    height: 200px;
+    transition: 0.3s;
+}
+.card-03-text:hover {
+    height: 300px;
+    transition: 0.3s;
+}
+.card-03-picture:hover {
+    height: 200px;
+    transition: 0.3s;
+}
+.card-04-text:hover {
+    height: 300px;
+    transition: 0.3s;
+}
+.card-04-picture:hover {
+    height: 200px;
+    transition: 0.3s;
+}
+
+
