@@ -49,9 +49,9 @@
 
   <!-- card-04 -->
     <div class="card-1 card-04 card-00" style="color:bisque; text-align:center; font-zise:50px">
-    <div class="card-03-picture">
+    <div class="card-04-picture">
     </div>
-    <div class="card-03-text">
+    <div class="card-04-text">
         <h1>BOOKS</h1>
         <p>Reading is the one of the best way of learning, pick you book now.</p>
         <div class="anchor">
